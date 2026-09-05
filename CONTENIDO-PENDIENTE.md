@@ -4,20 +4,18 @@ Todo lo marcado abajo sigue con datos de ejemplo en `index.html`. Sustitúyelo a
 de anunciar el sitio públicamente.
 
 ## Contacto
-- [ ] Teléfono real (aparece como `tel:+34600000000` en 6 sitios: header, menú móvil,
-      hero, áreas de atención y CTA final — busca `+34600000000` y reemplaza en todos)
-- [ ] Número de WhatsApp real (aparece como `https://wa.me/34600000000` en los mismos
-      6 sitios — busca `34600000000`)
-- [ ] Email real (actualmente `hola@pabloquinteronutricion.com` — confirmar si es el
-      definitivo)
-- [ ] Dirección completa de la consulta (ahora mismo dice "[Dirección completa
-      cuando esté confirmada]" en la sección de contacto)
+- [x] Teléfono real → +34642104190
+- [x] Número de WhatsApp real → wa.me/34642104190
+- [x] Email real → pablo@quinriver.es
+- [x] Dirección completa de la consulta → Rambla de Santa Cruz, 131 - 38001 –
+      Santa Cruz de Tenerife
 - [ ] Enlaces reales de Instagram y LinkedIn (ahora mismo son `#` en el footer)
 
 ## Credenciales
-- [ ] Bloque "Formación y experiencia" en Sobre mí — falta titulación exacta,
-      universidad del doctorado, número de colegiado (Colegio de
-      Dietistas-Nutricionistas de Canarias) y asociaciones profesionales
+- [x] Bloque "Formación y experiencia" en Sobre mí → Nutricionista y Doctor en
+      Nutrición por la Universidad de Navarra. (Pendiente aún: número de colegiado
+      del Colegio de Dietistas-Nutricionistas de Canarias y asociaciones
+      profesionales, si proceden)
 
 ## Legal
 - [ ] Aviso legal, Política de privacidad, Política de cookies — actualmente son
