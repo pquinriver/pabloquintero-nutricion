@@ -25,9 +25,26 @@ de anunciar el sitio públicamente.
       nutricional no sustituye...") es el que finalmente se quiere usar
 
 ## Técnico
-- [ ] Dominio propio: si se conecta uno (p. ej. pabloquinteronutricion.com), añadir
-      un archivo `CNAME` en la raíz del repo con ese dominio, y configurarlo en
-      Settings → Pages
-- [ ] Favicon — no hay ninguno configurado todavía
+- [ ] Dominio propio: se está comprando `pabloquinteronutricion.com`. Cuando esté
+      activo: añadir `CNAME` en la raíz del repo, configurarlo en Settings → Pages,
+      y sustituir ese dominio (ahora mismo hardcodeado como placeholder) en
+      `index.html` (canonical, og:url, og:image, twitter:image, JSON-LD), en
+      `robots.txt` (línea `Sitemap:`), en `sitemap.xml` (`<loc>`) y en `llms.txt`
+- [x] Favicon — `favicon.svg` (monograma verde/melocotón). Pendiente opcional:
+      generar un PNG/ICO de respaldo para iOS/navegadores antiguos con una
+      herramienta de diseño, ya que aquí no hay conversor SVG→raster disponible
 - [ ] Analítica (Google Analytics / Plausible / similar) — no hay ningún script de
       medición instalado; decidir si se quiere y cuál, valorando GDPR/cookies
+
+## SEO / IA
+- [x] Meta Open Graph / Twitter Card, canonical, JSON-LD (MedicalBusiness, Person,
+      FAQPage), `robots.txt`, `sitemap.xml`, `llms.txt` — hecho en la rama
+      `seo/technical-foundation`, con el dominio placeholder de arriba
+- [ ] Perfil de Google Business Profile (solo lo puede crear Pablo, requiere
+      verificación de la dirección)
+- [ ] Enlaces reales de Instagram/LinkedIn → añadirlos también a `sameAs` en el
+      JSON-LD una vez existan
+- [ ] Número de colegiado (Colegio de Dietistas-Nutricionistas de Canarias) →
+      añadirlo al bloque de credenciales y como `identifier` en el JSON-LD
+- [ ] Google Search Console: verificar la propiedad y enviar `sitemap.xml` en
+      cuanto el dominio esté activo
