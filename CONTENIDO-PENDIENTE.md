@@ -25,9 +25,25 @@ de anunciar el sitio públicamente.
       nutricional no sustituye...") es el que finalmente se quiere usar
 
 ## Técnico
-- [ ] Dominio propio: si se conecta uno (p. ej. pabloquinteronutricion.com), añadir
-      un archivo `CNAME` en la raíz del repo con ese dominio, y configurarlo en
-      Settings → Pages
-- [ ] Favicon — no hay ninguno configurado todavía
+- [x] Dominio propio: `pabloquinteronutricion.com` comprado en Namecheap. `CNAME`
+      añadido en la raíz del repo. Pendiente: configurar los registros DNS en
+      Namecheap (ver instrucciones fuera de este archivo) y esperar a que
+      GitHub Pages emita el certificado HTTPS
+- [x] Favicon — `favicon.svg` (monograma verde/melocotón). Pendiente opcional:
+      generar un PNG/ICO de respaldo para iOS/navegadores antiguos con una
+      herramienta de diseño, ya que aquí no hay conversor SVG→raster disponible
 - [ ] Analítica (Google Analytics / Plausible / similar) — no hay ningún script de
       medición instalado; decidir si se quiere y cuál, valorando GDPR/cookies
+
+## SEO / IA
+- [x] Meta Open Graph / Twitter Card, canonical, JSON-LD (MedicalBusiness, Person,
+      FAQPage), `robots.txt`, `sitemap.xml`, `llms.txt` — hecho en la rama
+      `seo/technical-foundation`, con el dominio placeholder de arriba
+- [ ] Perfil de Google Business Profile (solo lo puede crear Pablo, requiere
+      verificación de la dirección)
+- [ ] Enlaces reales de Instagram/LinkedIn → añadirlos también a `sameAs` en el
+      JSON-LD una vez existan
+- [ ] Número de colegiado (Colegio de Dietistas-Nutricionistas de Canarias) →
+      añadirlo al bloque de credenciales y como `identifier` en el JSON-LD
+- [ ] Google Search Console: verificar la propiedad y enviar `sitemap.xml` en
+      cuanto el dominio esté activo
