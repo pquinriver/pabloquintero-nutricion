@@ -18,9 +18,16 @@ de anunciar el sitio públicamente.
       profesionales, si proceden)
 
 ## Legal
-- [ ] Aviso legal, Política de privacidad, Política de cookies — actualmente son
-      enlaces `#` sin página real detrás. Se necesita: identificación fiscal
-      (NIF/CIF), texto RGPD/LOPDGDD, y revisión por un asesor legal antes de publicar
+- [x] Aviso legal, Política de privacidad, Política de cookies →
+      `aviso-legal.html`, `privacidad.html`, `cookies.html`, enlazadas desde el
+      footer. Redactadas con datos reales (Flint Bio S.L., NIF B27607928) siguiendo
+      buenas prácticas LSSI-CE/RGPD-LOPDGDD estándar, publicadas por decisión
+      expresa sin pasar por revisión de un abogado/gestor. Pendiente si se quiere
+      cerrar del todo:
+      - [ ] Datos de inscripción en el Registro Mercantil (no se incluyeron por no
+            tenerlos a mano)
+      - [ ] Revisión por un asesor legal, especialmente por tratarse de un sitio
+            de salud (datos de salud = categoría especial en RGPD)
 - [ ] Confirmar que el texto de descargo de responsabilidad médica ("La consulta
       nutricional no sustituye...") es el que finalmente se quiere usar
 
@@ -32,8 +39,9 @@ de anunciar el sitio públicamente.
 - [x] Favicon — `favicon.svg` (monograma verde/melocotón). Pendiente opcional:
       generar un PNG/ICO de respaldo para iOS/navegadores antiguos con una
       herramienta de diseño, ya que aquí no hay conversor SVG→raster disponible
-- [ ] Analítica (Google Analytics / Plausible / similar) — no hay ningún script de
-      medición instalado; decidir si se quiere y cuál, valorando GDPR/cookies
+- [ ] Analítica: se decidió usar Cloudflare Web Analytics (gratis, sin cookies, sin
+      banner de consentimiento necesario) — falta que Pablo cree la cuenta gratuita
+      en Cloudflare y me pase el script/token para instalarlo
 
 ## SEO / IA
 - [x] Meta Open Graph / Twitter Card, canonical, JSON-LD (MedicalBusiness, Person,

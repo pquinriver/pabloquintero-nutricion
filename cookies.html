@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de cookies · Pablo Quintero — Nutrición</title>
+<meta name="description" content="Qué cookies utiliza (y cuáles no utiliza) el sitio web pabloquinteronutricion.com.">
+<link rel="canonical" href="https://pabloquinteronutricion.com/cookies.html">
+<meta name="robots" content="noindex, follow">
+<meta name="theme-color" content="#0f3631">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container">
+
+  <header>
+    <a href="index.html" class="logo">Pablo Quintero</a>
+    <nav class="main-nav">
+      <a href="index.html#enfoque">Enfoque</a>
+      <a href="index.html#areas">Áreas de atención</a>
+      <a href="index.html#como-trabajo">Cómo trabajo</a>
+      <a href="index.html#sobre-mi">Sobre mí</a>
+      <a href="index.html#contacto">Contacto</a>
+    </nav>
+    <div class="header-right">
+      <a class="btn btn--secondary btn--sm" href="tel:+34642104190">Llamada</a>
+      <a class="btn btn--primary btn--sm" href="https://wa.me/34642104190" target="_blank" rel="noopener">WhatsApp</a>
+    </div>
+
+    <button class="hamburger" id="hamburgerBtn" aria-label="Abrir menú" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="mobile-menu" id="mobileMenu">
+      <a href="index.html#enfoque">Enfoque</a>
+      <a href="index.html#areas">Áreas de atención</a>
+      <a href="index.html#como-trabajo">Cómo trabajo</a>
+      <a href="index.html#sobre-mi">Sobre mí</a>
+      <a href="index.html#contacto">Contacto</a>
+      <hr>
+      <a class="btn btn--secondary" href="tel:+34642104190">📞 Llamada</a>
+      <a class="btn btn--primary" href="https://wa.me/34642104190" target="_blank" rel="noopener">💬 WhatsApp</a>
+    </nav>
+  </header>
+
+  <section class="legal-hero">
+    <p class="eyebrow-note">Legal</p>
+    <h1 style="font-size:clamp(1.9rem,3.5vw,2.6rem);max-width:640px;">Política de cookies</h1>
+    <p class="legal-updated">Última actualización: septiembre de 2026</p>
+  </section>
+
+  <section class="legal-content">
+
+    <h2>1. Qué es una cookie</h2>
+    <p>Una cookie es un pequeño archivo que un sitio web puede guardar en tu navegador para recordar información sobre tu visita, como preferencias o datos de navegación.</p>
+
+    <h2>2. Cookies que utiliza este sitio</h2>
+    <p>A día de hoy, <b>pabloquinteronutricion.com no instala cookies propias ni de terceros</b>. Es un sitio estático que no utiliza formularios, inicio de sesión, carritos de compra ni herramientas de publicidad.</p>
+
+    <h2>3. Analítica web</h2>
+    <p>Si en el futuro incorporamos una herramienta de analítica web (por ejemplo, Cloudflare Web Analytics), esta política se actualizará en consecuencia. Herramientas de este tipo, cuando no utilizan cookies ni identifican individualmente a los usuarios, se consideran exentas del deber de solicitar consentimiento según la guía de cookies de la Agencia Española de Protección de Datos (AEPD).</p>
+    <p>Si en algún momento incorporásemos cookies de analítica, marketing o cualquier otra que no esté exenta por ley, te lo indicaríamos mediante un aviso o banner en el propio sitio web y solicitaríamos tu consentimiento antes de activarlas.</p>
+
+    <h2>4. Cómo gestionar las cookies desde tu navegador</h2>
+    <p>Aunque este sitio no utiliza cookies actualmente, puedes configurar tu navegador para bloquear o eliminar las cookies de cualquier sitio web que visites desde el menú de ajustes o configuración de privacidad de tu navegador (Chrome, Firefox, Safari, Edge, etc.).</p>
+
+    <h2>5. Más información</h2>
+    <p>Para cualquier duda sobre esta política de cookies, puedes escribirnos a <a href="mailto:pablo@quinriver.es">pablo@quinriver.es</a>. Consulta también nuestra <a href="privacidad.html">política de privacidad</a>.</p>
+
+  </section>
+
+  <footer>
+    <p class="f-name">Pablo Quintero</p>
+    <p>Nutrición metabólica y longevidad · Nutricionista y Doctor en Nutrición</p>
+    <p>Santa Cruz de Tenerife</p>
+    <p class="f-links"><a href="#">Instagram</a>·<a href="#">LinkedIn</a>·<a href="mailto:pablo@quinriver.es">Email</a></p>
+    <p class="f-legal"><a href="aviso-legal.html">Aviso legal</a>·<a href="privacidad.html">Política de privacidad</a>·<a href="cookies.html">Política de cookies</a></p>
+    <p class="f-disclaimer">Doctor en Nutrición. La consulta nutricional no sustituye el diagnóstico ni el tratamiento médico.</p>
+  </footer>
+
+</div>
+
+<script>
+  const hamburgerBtn = document.getElementById('hamburgerBtn');
+  const mobileMenu = document.getElementById('mobileMenu');
+  hamburgerBtn.addEventListener('click', () => {
+    const isOpen = mobileMenu.classList.toggle('open');
+    hamburgerBtn.classList.toggle('open', isOpen);
+    hamburgerBtn.setAttribute('aria-expanded', String(isOpen));
+  });
+  mobileMenu.querySelectorAll('a').forEach(a => a.addEventListener('click', () => {
+    mobileMenu.classList.remove('open');
+    hamburgerBtn.classList.remove('open');
+    hamburgerBtn.setAttribute('aria-expanded', 'false');
+  }));
+  window.addEventListener('resize', () => {
+    if (window.innerWidth > 860) {
+      mobileMenu.classList.remove('open');
+      hamburgerBtn.classList.remove('open');
+      hamburgerBtn.setAttribute('aria-expanded', 'false');
+    }
+  });
+</script>
+</body>
+</html>
