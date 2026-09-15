@@ -25,11 +25,10 @@ de anunciar el sitio públicamente.
       nutricional no sustituye...") es el que finalmente se quiere usar
 
 ## Técnico
-- [ ] Dominio propio: se está comprando `pabloquinteronutricion.com`. Cuando esté
-      activo: añadir `CNAME` en la raíz del repo, configurarlo en Settings → Pages,
-      y sustituir ese dominio (ahora mismo hardcodeado como placeholder) en
-      `index.html` (canonical, og:url, og:image, twitter:image, JSON-LD), en
-      `robots.txt` (línea `Sitemap:`), en `sitemap.xml` (`<loc>`) y en `llms.txt`
+- [x] Dominio propio: `pabloquinteronutricion.com` comprado en Namecheap. `CNAME`
+      añadido en la raíz del repo. Pendiente: configurar los registros DNS en
+      Namecheap (ver instrucciones fuera de este archivo) y esperar a que
+      GitHub Pages emita el certificado HTTPS
 - [x] Favicon — `favicon.svg` (monograma verde/melocotón). Pendiente opcional:
       generar un PNG/ICO de respaldo para iOS/navegadores antiguos con una
       herramienta de diseño, ya que aquí no hay conversor SVG→raster disponible
