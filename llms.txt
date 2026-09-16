@@ -15,5 +15,8 @@
 ## Página principal
 - [pabloquinteronutricion.com](https://pabloquinteronutricion.com/) — enfoque, áreas de atención, cómo trabaja, sobre Pablo, preguntas frecuentes y contacto.
 
+## Blog
+- [pabloquinteronutricion.com/blog/](https://pabloquinteronutricion.com/blog/) — artículos sobre nutrición metabólica, salud familiar, nutrición deportiva y hábitos sostenibles.
+
 ## Aviso
 Doctor en Nutrición por la Universidad de Navarra. La consulta nutricional no sustituye la valoración, el diagnóstico ni el tratamiento médico.

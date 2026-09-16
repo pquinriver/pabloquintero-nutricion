@@ -1,0 +1,27 @@
+---
+layout: default
+title: Blog
+description: Artículos sobre nutrición metabólica, salud familiar, nutrición deportiva y hábitos sostenibles, por Pablo Quintero, Doctor en Nutrición.
+permalink: /blog/
+---
+<section class="section legal-hero" style="padding-bottom:0;">
+  <p class="eyebrow-note">Blog</p>
+  <h1 style="font-size:clamp(2rem,4vw,3rem);max-width:640px;">Artículos sobre nutrición</h1>
+  <p class="section-head" style="margin-top:8px;"><span class="lede" style="color:var(--muted);font-size:1.05rem;">Notas breves sobre salud metabólica, nutrición familiar, nutrición deportiva y cómo sostener hábitos en la vida real.</span></p>
+</section>
+
+<section class="section" style="padding-top:24px;">
+  <div class="blog-list">
+    {% for post in site.posts %}
+    <a class="blog-card" href="{{ post.url | relative_url }}">
+      <p class="blog-card-date">{% include fecha-es.html date=post.date %}</p>
+      <h2>{{ post.title }}</h2>
+      <p>{{ post.description | default: post.excerpt | strip_html | truncate: 160 }}</p>
+    </a>
+    {% else %}
+    <p style="color:var(--muted);">Todavía no hay artículos publicados — el primero está de camino.</p>
+    {% endfor %}
+  </div>
+
+  {% include subscribe.html %}
+</section>

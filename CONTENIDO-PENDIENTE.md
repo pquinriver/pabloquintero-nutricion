@@ -43,6 +43,22 @@ de anunciar el sitio públicamente.
       banner de consentimiento necesario) — falta que Pablo cree la cuenta gratuita
       en Cloudflare y me pase el script/token para instalarlo
 
+## Blog
+- [x] Estructura de blog en Jekyll (`_config.yml`, `_layouts`, `_includes`,
+      `_posts/`, `blog/index.html`), con feed RSS automático en `/feed.xml`
+      (plugin `jekyll-feed`, compatible con GitHub Pages sin Gemfile). Primer
+      artículo de ejemplo publicado en `/blog/por-que-no-doy-dietas-cerradas/`
+- [x] Cuenta en Kit creada (plan gratuito), formulario de suscripción al blog
+      embebido en `_includes/subscribe.html`
+- [ ] Lead magnet: el plan gratuito de Kit no incluye automatizaciones, así que
+      la entrega automática de un PDF/guía al suscribirse no está disponible
+      todavía. Revisar si el formulario tiene la opción "Incentive email" /
+      "Content upgrade" (a veces incluida en formularios gratuitos); si no,
+      valorar subir de plan más adelante o buscar otra vía. No bloquea el
+      lanzamiento del blog
+- [ ] Decidir próximos temas del blog (partir de las preguntas del FAQ es un
+      buen punto de partida)
+
 ## SEO / IA
 - [x] Meta Open Graph / Twitter Card, canonical, JSON-LD (MedicalBusiness, Person,
       FAQPage), `robots.txt`, `sitemap.xml`, `llms.txt` — hecho en la rama
