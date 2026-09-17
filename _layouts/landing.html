@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="es">
+<head>
+{% include head.html %}
+</head>
+<body>
+
+<div class="container">
+
+  <header class="lp-header">
+    <a href="{{ '/' | relative_url }}" class="logo">Pablo Quintero</a>
+    <a class="btn btn--primary btn--sm" href="https://wa.me/34642104190" target="_blank" rel="noopener">WhatsApp</a>
+  </header>
+
+  {{ content }}
+
+  {% include footer.html %}
+
+</div>
+
+</body>
+</html>

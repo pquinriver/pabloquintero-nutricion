@@ -250,3 +250,43 @@
     .subscribe-form{flex-direction:column}
     .subscribe-form .btn{width:100%;justify-content:center}
   }
+
+  /* ---------- landing pages (per-audience) ---------- */
+  .lp-header{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;position:sticky;top:14px;z-index:30;background:var(--paper);border-radius:999px;box-shadow:0 14px 32px rgba(15,54,49,.10);margin-top:16px}
+  .lp-wrap{max-width:640px;margin:0 auto;padding:56px 0 24px;text-align:center}
+  .lp-eyebrow{display:inline-flex;align-items:center;gap:8px;padding:9px 18px;border-radius:999px;background:rgba(15,54,49,.06);font-size:.82rem;font-weight:700;color:var(--forest);margin-bottom:22px}
+  .lp-wrap h1{font-size:clamp(2rem,5vw,2.9rem);line-height:1.12;font-weight:700;margin-bottom:30px}
+  .lp-cta{margin:0 0 22px}
+  .lp-cta .btn{padding:17px 36px;font-size:1.02rem}
+  .lp-identity{display:flex;align-items:center;justify-content:center;gap:12px;margin:0 0 40px}
+  .lp-identity img{width:46px;height:46px;border-radius:50%;object-fit:cover;flex-shrink:0;filter:grayscale(1)}
+  .lp-identity p{margin:0;text-align:left;font-size:.92rem;color:var(--ink-soft)}
+  .lp-identity b{color:var(--forest)}
+  .lp-recognition{list-style:none;margin:0 0 32px;padding:0;text-align:left;display:flex;flex-direction:column;gap:14px}
+  .lp-recognition li{display:flex;gap:10px;font-size:1.05rem;color:var(--ink-soft)}
+  .lp-recognition li::before{content:"✓";color:var(--good);font-weight:800;flex-shrink:0}
+  .lp-callout{background:var(--paper-alt);border:1px solid rgba(232,180,140,.45);border-radius:18px;padding:22px 26px;font-size:1rem;color:var(--ink);text-align:left;margin:0 0 20px}
+  .lp-credibility{color:var(--muted);font-size:.94rem;margin:0 0 40px}
+  .lp-reassure{color:var(--muted);font-size:.88rem;margin:14px 0 0}
+  .lp-footnote{color:var(--muted);font-size:.86rem;margin:8px 0 44px}
+  .lp-siblings{border-top:1px solid var(--line);padding-top:24px;margin-top:8px;font-size:.9rem;color:var(--muted)}
+  .lp-siblings a{color:var(--terracotta);text-decoration:underline}
+  @media (max-width:600px){
+    .lp-wrap{padding:36px 0 16px}
+    .lp-identity{flex-direction:column;text-align:center}
+    .lp-identity p{text-align:center}
+  }
+
+  /* ---------- servicios (hub) ---------- */
+  .program-group{margin-bottom:44px}
+  .program-group h2{font-size:1.3rem;margin-bottom:18px}
+  .program-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .program-card{display:block;padding:26px 28px;border-radius:22px;background:var(--paper);border:1px solid var(--line);text-decoration:none;transition:border-color .15s ease,box-shadow .15s ease}
+  .program-card:hover{border-color:rgba(232,180,140,.6);box-shadow:0 10px 28px rgba(15,54,49,.08)}
+  .program-card h3{font-size:1.08rem;margin-bottom:8px}
+  .program-card p{color:var(--muted);font-size:.92rem;margin:0}
+  .program-card .program-link{display:inline-block;margin-top:14px;font-size:.88rem;font-weight:700;color:var(--terracotta)}
+  .program-card.disabled{background:var(--paper-alt);border:1px dashed rgba(232,180,140,.6);cursor:default}
+  .program-card.disabled:hover{box-shadow:none}
+  .program-badge{display:inline-block;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);background:rgba(124,138,134,.12);padding:4px 10px;border-radius:999px;margin-bottom:10px}
+  @media (max-width:780px){.program-grid{grid-template-columns:1fr}}
