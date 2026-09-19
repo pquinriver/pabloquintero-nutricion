@@ -147,6 +147,7 @@
   .logo-row{display:flex;align-items:center;flex-wrap:wrap;gap:28px 32px;margin-top:10px}
   .logo-row .logo-item{height:22px;width:auto;display:block;filter:brightness(0) invert(30%);opacity:.85}
   .logo-row .logo-item-flint{height:34px}
+  .logo-row .logo-item-crest{height:46px}
   .logo-row .logo-text{font-family:var(--font-display);font-weight:800;font-size:1rem;letter-spacing:.04em;color:#4d4d4d;text-transform:uppercase;line-height:22px}
 
   /* ---------- contacto (dark panel) ---------- */
