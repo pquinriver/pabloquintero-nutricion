@@ -6,7 +6,7 @@ de anunciar el sitio públicamente.
 ## Contacto
 - [x] Teléfono real → +34642104190
 - [x] Número de WhatsApp real → wa.me/34642104190
-- [x] Email real → pablo@quinriver.es
+- [x] Email real → hola@pabloquinteronutricion.com
 - [x] Dirección completa de la consulta → Rambla de Santa Cruz, 131 - 38001 –
       Santa Cruz de Tenerife
 - [ ] Enlaces reales de Instagram y LinkedIn (ahora mismo son `#` en el footer)
