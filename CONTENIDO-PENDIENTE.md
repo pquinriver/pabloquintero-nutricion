@@ -20,12 +20,11 @@ de anunciar el sitio públicamente.
 ## Legal
 - [x] Aviso legal, Política de privacidad, Política de cookies →
       `aviso-legal.html`, `privacidad.html`, `cookies.html`, enlazadas desde el
-      footer. Redactadas con datos reales (Flint Bio S.L., NIF B27607928) siguiendo
-      buenas prácticas LSSI-CE/RGPD-LOPDGDD estándar, publicadas por decisión
-      expresa sin pasar por revisión de un abogado/gestor. Pendiente si se quiere
-      cerrar del todo:
-      - [ ] Datos de inscripción en el Registro Mercantil (no se incluyeron por no
-            tenerlos a mano)
+      footer. Redactadas con datos reales (Pablo Quintero como autónomo, NIF
+      7869624E — actualizado en 2026-09, antes figuraba Flint Bio S.L.)
+      siguiendo buenas prácticas LSSI-CE/RGPD-LOPDGDD estándar, publicadas por
+      decisión expresa sin pasar por revisión de un abogado/gestor. Pendiente
+      si se quiere cerrar del todo:
       - [ ] Revisión por un asesor legal, especialmente por tratarse de un sitio
             de salud (datos de salud = categoría especial en RGPD)
 - [ ] Confirmar que el texto de descargo de responsabilidad médica ("La consulta
