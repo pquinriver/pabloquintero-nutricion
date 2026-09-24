@@ -68,12 +68,11 @@
   .hero .lede{font-size:1.05rem;color:var(--ink-soft);max-width:50ch;margin-bottom:0}
 
   .hero-right{display:flex;flex-direction:column;align-items:flex-end;text-align:right}
-  .hero-photo{width:100%;max-width:300px;border-radius:28px;overflow:hidden;background:var(--paper-alt)}
+  .hero-photo{width:100%;max-width:375px}
   .hero-photo img{
     width:100%;height:auto;display:block;
-    filter:grayscale(1) contrast(1.08) brightness(1.02);
-    -webkit-mask-image:linear-gradient(to bottom, black 74%, transparent 96%);
-    mask-image:linear-gradient(to bottom, black 74%, transparent 96%);
+    -webkit-mask-image:linear-gradient(to bottom, black 90%, rgba(0,0,0,.75) 95%, rgba(0,0,0,.3) 98%, transparent 100%);
+    mask-image:linear-gradient(to bottom, black 90%, rgba(0,0,0,.75) 95%, rgba(0,0,0,.3) 98%, transparent 100%);
   }
   .hero-cta{margin-top:18px;display:flex;flex-direction:column;align-items:flex-end;gap:12px;max-width:300px}
   .cta-label{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:0}
@@ -138,7 +137,6 @@
   @media (max-width:780px){.about-grid{grid-template-columns:1fr}}
   .about-photo img{
     width:100%;height:auto;display:block;border-radius:28px;
-    filter:grayscale(1) contrast(1.08) brightness(1.02);
     -webkit-mask-image:linear-gradient(to bottom, black 74%, transparent 96%);
     mask-image:linear-gradient(to bottom, black 74%, transparent 96%);
   }
@@ -191,7 +189,7 @@
     .hero h1{font-size:clamp(2rem,7vw,2.5rem)}
     .hero .lede{max-width:none}
     .hero-right{align-items:flex-start;text-align:left}
-    .hero-photo{max-width:240px;margin:0 auto}
+    .hero-photo{max-width:300px;margin:0 auto}
     .hero-cta{align-items:stretch;max-width:none;width:100%}
     .hero-note{text-align:left}
     .info-row{grid-template-columns:1fr;gap:20px;margin-top:28px}
