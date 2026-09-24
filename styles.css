@@ -137,8 +137,8 @@
   @media (max-width:780px){.about-grid{grid-template-columns:1fr}}
   .about-photo img{
     width:100%;height:auto;display:block;border-radius:28px;
-    -webkit-mask-image:linear-gradient(to bottom, black 74%, transparent 96%);
-    mask-image:linear-gradient(to bottom, black 74%, transparent 96%);
+    -webkit-mask-image:linear-gradient(to bottom, black 90%, rgba(0,0,0,.75) 95%, rgba(0,0,0,.3) 98%, transparent 100%);
+    mask-image:linear-gradient(to bottom, black 90%, rgba(0,0,0,.75) 95%, rgba(0,0,0,.3) 98%, transparent 100%);
   }
   .credential-note{background:var(--paper-alt);border:1px solid rgba(232,180,140,.4);border-radius:18px;padding:18px 22px;font-size:.9rem;color:var(--ink-soft);margin:22px 0}
   .credential-note b{color:var(--ink)}
