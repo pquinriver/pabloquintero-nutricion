@@ -149,6 +149,9 @@
   }
   .credential-note{background:var(--paper-alt);border:1px solid rgba(232,180,140,.4);border-radius:18px;padding:18px 22px;font-size:.9rem;color:var(--ink-soft);margin:22px 0}
   .credential-note b{color:var(--ink)}
+  .credential-note .credential-list{list-style:none;margin:8px 0 0;padding:0;display:flex;flex-direction:column;gap:6px}
+  .credential-note .credential-list li{display:flex;gap:8px}
+  .credential-note .credential-list li::before{content:"—";color:var(--terracotta);font-weight:800;flex-shrink:0}
   .disclaimer{color:var(--muted);font-size:.86rem}
 
   .experience-logos{margin:22px 0}
@@ -156,6 +159,7 @@
   .logo-row .logo-item{height:22px;width:auto;display:block;filter:brightness(0) invert(30%);opacity:.85}
   .logo-row .logo-item-flint{height:34px}
   .logo-row .logo-item-crest{height:46px}
+  .logo-row .logo-item-lg{height:32px}
   .logo-row .logo-text{font-family:var(--font-display);font-weight:800;font-size:1rem;letter-spacing:.04em;color:#4d4d4d;text-transform:uppercase;line-height:22px}
 
   /* ---------- contacto (dark panel) ---------- */
