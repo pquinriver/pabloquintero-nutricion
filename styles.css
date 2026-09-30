@@ -65,7 +65,7 @@
   .identity-block{margin:auto 0}
   .identity-block .id-name{font-family:var(--font-display);font-size:1.1rem;font-weight:800;letter-spacing:.02em;color:var(--forest);margin:0 0 6px}
   .identity-block .id-tagline{font-weight:700;color:var(--terracotta);margin:0 0 4px;font-size:1.05rem}
-  .identity-block .id-cred{font-family:var(--font-sans);font-size:.82rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin:0}
+  .identity-block .id-tagline:last-child{margin-bottom:0}
   .hero .lede{font-size:1.05rem;color:var(--ink-soft);max-width:50ch;margin-bottom:0}
 
   .hero-right{display:flex;flex-direction:column;align-items:flex-end;text-align:right}
