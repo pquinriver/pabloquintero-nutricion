@@ -230,6 +230,10 @@
   .legal-content ul{margin:0 0 1em;padding-left:1.2em;color:var(--ink-soft)}
   .legal-content li{margin-bottom:.4em}
   .legal-content a{color:var(--terracotta);text-decoration:underline}
+  .legal-content table{width:100%;border-collapse:collapse;margin:0 0 1em;font-size:.88rem}
+  .legal-content th,.legal-content td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+  .legal-content th{background:var(--paper-alt);color:var(--ink)}
+  @media (max-width:640px){.legal-content table{display:block;overflow-x:auto}}
   .legal-meta{background:var(--paper-alt);border:1px solid rgba(232,180,140,.4);border-radius:18px;padding:20px 24px;font-size:.92rem;color:var(--ink-soft);margin:0 0 2em}
   .legal-meta div{margin-bottom:4px}
   .legal-meta b{color:var(--ink)}
@@ -268,3 +272,10 @@
     .subscribe-form{flex-direction:column}
     .subscribe-form .btn{width:100%;justify-content:center}
   }
+
+  /* ---------- cookie banner ---------- */
+  .cookie-banner{position:fixed;left:16px;right:16px;bottom:16px;z-index:100;max-width:560px;margin:0 auto;background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:20px;box-shadow:0 16px 40px rgba(15,54,49,.18);padding:18px 20px;font-size:.88rem;line-height:1.5}
+  .cookie-banner p{margin:0 0 12px}
+  .cookie-banner a{color:var(--forest);font-weight:600}
+  .cookie-actions{display:flex;gap:10px;justify-content:flex-end}
+  @media (max-width:480px){.cookie-actions .btn{flex:1;justify-content:center}}
