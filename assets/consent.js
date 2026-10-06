@@ -67,7 +67,30 @@
     document.body.appendChild(b);
   }
 
+  // Visitas desde un anuncio (gclid/gbraid/wbraid): WhatsApp con mensaje pre-rellenado,
+  // así se puede saber qué conversaciones llegan de Google Ads.
+  var AD_MESSAGE = 'Hola Pablo, te escribo para saber más sobre tu consulta';
+  var AD_KEY = 'pq-from-ad';
+
+  function cameFromAd() {
+    if (/[?&](gclid|gbraid|wbraid)=/.test(location.search)) {
+      if (getChoice() === 'granted') {
+        try { sessionStorage.setItem(AD_KEY, '1'); } catch (e) {}
+      }
+      return true;
+    }
+    try { return sessionStorage.getItem(AD_KEY) === '1'; } catch (e) { return false; }
+  }
+
+  function prefillWhatsApp() {
+    if (!cameFromAd()) return;
+    document.querySelectorAll('a[href^="https://wa.me/"]').forEach(function (a) {
+      a.href = a.href.split('?')[0] + '?text=' + encodeURIComponent(AD_MESSAGE);
+    });
+  }
+
   function init() {
+    prefillWhatsApp();
     var choice = getChoice();
     if (choice === 'granted') loadGoogleTag();
     else if (choice !== 'denied') showBanner();
