@@ -22,7 +22,7 @@ Si has pasado de los 40 (o te acercas), notas que la barriga crece aunque no com
 
 ¿Te sigues sintiendo joven, pero tu cuerpo te dice otra cosa?
 
-Este artículo es para hombres de 35 a 45 años con un trabajo exigente, hijos y poco tiempo. Si preparas una competición o buscas un plan exprés para el verano, este artículo no es para ti. Si quieres volver a estar en forma sin que tu vida gire alrededor de una dieta, sigue leyendo.
+Este artículo es para hombres de 35 a 50 años con un trabajo exigente, hijos y poco tiempo. Si preparas una competición o buscas un plan exprés para el verano, este artículo no es para ti. Si quieres volver a estar en forma sin que tu vida gire alrededor de una dieta, sigue leyendo.
 
 ## Lo que notas (y no es solo la báscula)
 
