@@ -69,7 +69,7 @@ El ejercicio aeróbico reduce la grasa visceral incluso sin hacer dieta: un meta
 
 ### 3. Proteína en cada comida principal
 
-Si entrenas fuerza, la proteína ayuda a ganar músculo. En un metaanálisis de ensayos con personas que entrenaban fuerza, el beneficio aumentaba hasta un consumo total de unos 1,6 g de proteína por kilo de peso al día, y por encima de esa cifra el beneficio adicional fue pequeño o nulo ([Morton y cols., 2018](https://doi.org/10.1136/bjsports-2017-097608)). Sin hacer cálculos: incluye una ración de proteína en el desayuno, la comida y la cena. El desayuno suele ser el punto débil.
+Si entrenas fuerza, la proteína ayuda a ganar músculo. En un metaanálisis de ensayos con personas que entrenaban fuerza, el beneficio aumentaba hasta un consumo total de unos 1,6 g de proteína por kilo de peso al día, y por encima de esa cifra el beneficio adicional fue pequeño o nulo ([Morton y cols., 2018](https://doi.org/10.1136/bjsports-2017-097608)). Sin hacer cálculos: incluye una ración de proteína en el desayuno, la comida y la cena (legumbres, soja, frutos secos, pescado, carne o lácteos 0 % de grasa). El desayuno suele ser el punto débil.
 
 ### 4. Una estructura mínima para los días caóticos
 
