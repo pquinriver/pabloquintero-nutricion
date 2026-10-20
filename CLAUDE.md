@@ -39,7 +39,7 @@ cta_copy: "..."         # opcional
 ### Contenido
 - Sin H1 en el cuerpo. Usa `##` y `###` en orden, con la búsqueda en algún H2 de forma natural.
 - Búsqueda principal en el primer párrafo, sin forzarla.
-- Público de los artículos actuales: **hombres de 35–45 con hijos y trabajo exigente** (bloque de problemas de hombres). Filtro del público en las primeras líneas.
+- Público de los artículos actuales: **hombres de 35–50 con hijos y trabajo exigente** (bloque de problemas de hombres). Filtro del público en las primeras líneas.
 - Mínimo 3 enlaces internos: otros artículos del blog si existen y la home (`/#contacto`, `/#asi-trabajo` o `/#sobre-mi`). Texto de enlace descriptivo, nunca «aquí».
 - Estudios: enlaza la fuente original (PubMed, DOI u organismo oficial). Nada inventado; si algo no está verificado, no se publica.
 - Sin «garantizado», «cura», «revierte», «detox», «quema grasa» ni promesas de kilos o plazos. Nunca sugerir cambiar medicación. Derivar al médico cuando toque.
