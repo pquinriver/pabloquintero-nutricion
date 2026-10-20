@@ -7,7 +7,7 @@ claude.ai («plan-seo-web.md»); este archivo resume las reglas para trabajar aq
 ## Forma de trabajar
 - **Nunca subas directamente a `main`.** Una rama y un pull request por cambio o artículo; Pablo revisa y hace merge.
 - Español de España, tuteo, tono de profesional cercano.
-- Credencial: «Doctor en Nutrición» en todo el sitio. En la caja de autor y en «Sobre mí»: «Doctor por la Universidad de Navarra, con una tesis en nutrición». No toques el aviso legal sin que Pablo lo pida (debe llevar la denominación oficial del título).
+- Credencial: «Doctor en Nutrición» en todo el sitio. En la caja de autor y en «Sobre mí»: «Doctor en Nutrición por la Universidad de Navarra». No toques el aviso legal sin que Pablo lo pida (debe llevar la denominación oficial del título).
 
 ## Artículos nuevos del blog
 
