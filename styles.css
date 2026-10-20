@@ -264,7 +264,7 @@
   .cta-post-title{font-weight:800;font-size:1.2rem;color:var(--forest);margin:0 0 8px}
   .cta-post-copy{color:var(--ink-soft);font-size:.98rem;margin:0 0 20px}
   .author-box{display:flex;gap:18px;align-items:flex-start;margin-top:32px;padding:24px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-  .author-photo{width:72px;height:72px;border-radius:50%;object-fit:cover;object-position:top;flex-shrink:0;background:var(--paper-alt)}
+  .author-photo{width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0;background:var(--paper-alt)}
   .author-name{font-weight:800;color:var(--forest);margin:0 0 2px}
   .author-cred{font-size:.9rem;font-weight:600;color:var(--ink);margin:0 0 8px}
   .author-bio{font-size:.92rem;color:var(--ink-soft);margin:0 0 6px}
