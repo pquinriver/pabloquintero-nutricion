@@ -1,0 +1,53 @@
+{%- comment -%}
+  Datos estructurados de cada artículo: Article (con autor) y, si el front matter
+  trae una lista `faq` (q/a), FAQPage. Las preguntas deben estar también visibles
+  en el cuerpo del artículo.
+{%- endcomment -%}
+{%- assign modificado = page.last_modified_at | default: page.date -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "{{ page.url | absolute_url }}#article",
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": "es-ES",
+      "mainEntityOfPage": "{{ page.url | absolute_url }}",
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ modificado | date_to_xmlschema }}",
+      "image": "{{ page.image | default: '/assets/og-card.png' | absolute_url }}",
+      "author": {
+        "@type": "Person",
+        "@id": "https://pabloquinteronutricion.com/#pablo",
+        "name": "Pablo Quintero",
+        "jobTitle": "Nutricionista",
+        "description": "Doctor en Nutrición por la Universidad de Navarra.",
+        "url": "https://pabloquinteronutricion.com/#sobre-mi",
+        "alumniOf": { "@type": "CollegeOrUniversity", "name": "Universidad de Navarra" },
+        "sameAs": ["https://www.linkedin.com/in/pabloquintero"]
+      },
+      "publisher": {
+        "@type": "MedicalBusiness",
+        "@id": "https://pabloquinteronutricion.com/#business",
+        "name": "Pablo Quintero — Nutrición",
+        "url": "https://pabloquinteronutricion.com/"
+      }
+    }{% if page.faq %},
+    {
+      "@type": "FAQPage",
+      "@id": "{{ page.url | absolute_url }}#faq",
+      "mainEntity": [
+        {%- for item in page.faq %}
+        {
+          "@type": "Question",
+          "name": {{ item.q | jsonify }},
+          "acceptedAnswer": { "@type": "Answer", "text": {{ item.a | markdownify | strip_html | strip | jsonify }} }
+        }{% unless forloop.last %},{% endunless %}
+        {%- endfor %}
+      ]
+    }{% endif %}
+  ]
+}
+</script>

@@ -1,5 +1,5 @@
 title: "Pablo Quintero — Nutrición"
-description: "Nutrición para personas con trabajo exigente, hijos y cero tiempo. Pablo Quintero, Doctor en Fisiología y Alimentación. Tenerife y online."
+description: "Nutrición para personas con trabajo exigente, hijos y cero tiempo. Pablo Quintero, Doctor en Nutrición. Tenerife y online."
 url: "https://pabloquinteronutricion.com"
 lang: es
 
@@ -15,4 +15,8 @@ feed:
 exclude:
   - README.md
   - CONTENIDO-PENDIENTE.md
+  - CLAUDE.md
   - "*.log"
+
+# Fechas de los posts en hora canaria (evita que un post de hoy cuente como futuro en el build UTC)
+timezone: Atlantic/Canary
