@@ -18,11 +18,11 @@ faq:
     a: "La creatina tiene buena evidencia como apoyo al entrenamiento de fuerza, pero sin entrenamiento de fuerza hace muy poco. No es un atajo para perder barriga. Si entrenas y te interesa, consúltalo con un profesional antes de comprar."
 ---
 
-Si has pasado de los 40 (o te acercas) y notas que la barriga crece aunque no comas mucho más que antes, no es tu imaginación. Perder barriga después de los 40 cuesta más que a los 25, pero no por un misterio hormonal: el cuerpo ha cambiado y la rutina, también.
+Si has pasado de los 40 (o te acercas), notas que la barriga crece aunque no comas mucho más que antes. Perder barriga después de los 40 cuesta más que a los 25. Las hormonas influyen algo, pero casi siempre pesa más lo demás: menos músculo, menos movimiento y una semana que ya no es la de antes.
 
-> «Sigo sintiéndome joven, pero mi cuerpo me está diciendo otra cosa.»
+¿Te sigues sintiendo joven, pero tu cuerpo te dice otra cosa?
 
-Este artículo es para hombres de 35 a 45 años con un trabajo exigente, hijos y poco tiempo. No es para quien prepara una competición ni busca un plan exprés para el verano. Es para quien quiere volver a sentirse en forma sin convertir su vida en una dieta.
+Este artículo es para hombres de 35 a 45 años con un trabajo exigente, hijos y poco tiempo. Si preparas una competición o buscas un plan exprés para el verano, este artículo no es para ti. Si quieres volver a estar en forma sin que tu vida gire alrededor de una dieta, sigue leyendo.
 
 ## Lo que notas (y no es solo la báscula)
 
@@ -33,16 +33,16 @@ Muchas veces el peso apenas ha cambiado y, sin embargo:
 - Te recuperas peor: un partido o una caminata larga te pasan factura dos días.
 - Llegas cansado a la tarde y a la noche.
 
-Para saber dónde estás, la cinta métrica es más útil que la báscula. Mide tu cintura a la altura del ombligo, de pie, relajado y sin meter tripa, y divídela entre tu altura (las dos medidas en centímetros). La guía de obesidad del NICE, el organismo que hace las guías clínicas del sistema de salud británico, usa este [índice cintura-altura](https://www.nice.org.uk/guidance/NG246/chapter/identifying-and-assessing-overweight-obesity-and-central-adiposity): por debajo de 0,5 es lo deseable; entre 0,5 y 0,59 indica un riesgo para la salud aumentado, y a partir de 0,6, más alto. Un ejemplo: si mides 178 cm, la referencia es que tu cintura esté por debajo de 89 cm.
+Para saber dónde estás, la cinta métrica es más útil que la báscula. Mide tu cintura a medio camino entre la última costilla y la parte alta de la cadera, de pie, relajado y al final de una espiración normal, sin meter tripa. Después divídela entre tu altura (las dos medidas en centímetros). La guía de obesidad del NICE, el organismo que hace las guías clínicas del sistema de salud británico, usa este [índice cintura-altura](https://www.nice.org.uk/guidance/NG246/chapter/identifying-and-assessing-overweight-obesity-and-central-adiposity): por debajo de 0,5 es lo deseable; entre 0,5 y 0,59 indica un riesgo para la salud aumentado, y a partir de 0,6, más alto. Un ejemplo: si mides 178 cm, la referencia es que tu cintura esté por debajo de 89 cm. El NICE lo plantea como orientación para adultos con un índice de masa corporal (IMC) por debajo de 35.
 
 ## Por qué a los 40 el cuerpo deja de compensar
 
 A los 25 podías cenar tarde, dormir poco y salir el fin de semana, y el cuerpo lo absorbía. A los 40 se juntan varias cosas a la vez:
 
-- **Menos músculo si no lo entrenas.** Con los años se pierde masa muscular de forma progresiva, un proceso que en su extremo se llama sarcopenia ([Volpi y cols., 2004](https://doi.org/10.1097/01.mco.0000134362.76653.b2)). Menos músculo significa menos fuerza y un cuerpo que tolera peor los excesos. La buena noticia es que el músculo responde al entrenamiento a cualquier edad.
-- **Mucho menos movimiento sin darte cuenta.** No hablamos solo del deporte: es el coche, la silla, el sofá y menos pasos al día. Ese gasto «invisible» baja mucho cuando el trabajo y los niños ocupan toda la agenda.
+- **Menos músculo si no lo entrenas.** Con los años se pierde masa muscular de forma progresiva, un proceso que en su extremo se llama sarcopenia ([Volpi y cols., 2004](https://doi.org/10.1097/01.mco.0000134362.76653.b2)). Menos músculo significa menos fuerza y un cuerpo que tolera peor los excesos. El músculo responde al entrenamiento a cualquier edad.
+- **Mucho menos movimiento sin darte cuenta.** Piensa en el coche, la silla, el sofá y en cuántos pasos das al día. Ese gasto «invisible» baja mucho cuando el trabajo y los niños ocupan toda la agenda.
 - **La grasa se acumula más en la tripa.** En los hombres, la grasa tiende a ir al abdomen, y una parte se sitúa alrededor de los órganos (la llamada grasa visceral). Esa es la que más se relaciona con problemas de salud, y por eso la cintura importa más que el peso.
-- **Rutinas que no ayudan.** Saltarse comidas, picar por la tarde, cenar tarde y abundante, dormir menos de lo que necesitas y usar la cerveza o el vino para desconectar. Ninguna es grave por sí sola; juntas, se notan.
+- **Rutinas que no ayudan.** Saltarse comidas, picar por la tarde, cenar tarde y abundante, dormir menos de lo que necesitas y usar la cerveza o el vino para desconectar.
 
 Y puede que haya algo más. ¿Te pasa que antes eras una persona activa (fútbol, gimnasio, bici) y no sabes muy bien cuándo dejaste de serlo? Muchos hombres de esta edad no han dejado el deporte por una decisión: simplemente, un día dejó de caber en la semana.
 
@@ -67,15 +67,15 @@ El ejercicio aeróbico reduce la grasa visceral incluso sin hacer dieta: un meta
 
 ### 3. Proteína en cada comida principal
 
-Si entrenas fuerza, la proteína ayuda a ganar músculo. En un metaanálisis de ensayos con personas que entrenaban fuerza, el beneficio aumentaba hasta un consumo total de unos 1,6 g de proteína por kilo de peso al día, y por encima de esa cifra no se observaron mejoras adicionales ([Morton y cols., 2018](https://doi.org/10.1136/bjsports-2017-097608)). Sin hacer cálculos: incluye una ración de proteína en el desayuno, la comida y la cena (huevos, legumbres, pescado, carne, yogur natural o queso fresco). El desayuno suele ser el punto débil.
+Si entrenas fuerza, la proteína ayuda a ganar músculo. En un metaanálisis de ensayos con personas que entrenaban fuerza, el beneficio aumentaba hasta un consumo total de unos 1,6 g de proteína por kilo de peso al día, y por encima de esa cifra el beneficio adicional fue pequeño o nulo ([Morton y cols., 2018](https://doi.org/10.1136/bjsports-2017-097608)). Sin hacer cálculos: incluye una ración de proteína en el desayuno, la comida y la cena (huevos, legumbres, pescado, carne, yogur natural o queso fresco). El desayuno suele ser el punto débil.
 
 ### 4. Una estructura mínima para los días caóticos
 
-La barriga crece más con el picoteo y las cenas improvisadas que con una comida concreta. Ten resueltas dos o tres opciones de comida y de cena que puedas repetir sin pensar, y algo a mano para la tarde (fruta, yogur o un puñado de frutos secos) para no llegar a casa con hambre de todo. Si te cuesta cambiar aunque sepas qué hacer, este artículo explica por qué: [por qué cuesta tanto cambiar la forma de comer](/blog/por-que-cuesta-cambiar-forma-de-comer/).
+En una semana caótica, el picoteo de la tarde y las cenas improvisadas son difíciles de controlar sobre la marcha. Ten resueltas dos o tres opciones de comida y de cena que puedas repetir sin pensar, y algo a mano para la tarde (fruta, yogur o un puñado de frutos secos) para no llegar a casa con hambre de todo. Si te cuesta cambiar aunque sepas qué hacer, te lo explico en [por qué cuesta tanto cambiar la forma de comer](/blog/por-que-cuesta-cambiar-forma-de-comer/).
 
 ### 5. Dormir y beber con intención
 
-Dormir poco aumenta el hambre y el picoteo del día siguiente, y el alcohol añade energía y suele empeorar el descanso. No se trata de prohibir nada: elige qué días bebes y cuánto, y protege una hora fija para acostarte la mayoría de las noches.
+Dormir poco aumenta el hambre y el picoteo del día siguiente, y el alcohol añade energía y suele empeorar el descanso. Elige qué días bebes y cuánto, y protege una hora fija para acostarte la mayoría de las noches.
 
 ## Cuándo necesitas a otro profesional
 
