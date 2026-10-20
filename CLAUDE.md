@@ -8,6 +8,8 @@ claude.ai («plan-seo-web.md»); este archivo resume las reglas para trabajar aq
 - **Nunca subas directamente a `main`.** Una rama y un pull request por cambio o artículo; Pablo revisa y hace merge.
 - Español de España, tuteo, tono de profesional cercano.
 - Credencial: «Doctor en Nutrición» en todo el sitio. En la caja de autor y en «Sobre mí»: «Doctor en Nutrición por la Universidad de Navarra». No toques el aviso legal sin que Pablo lo pida (debe llevar la denominación oficial del título).
+- Ubicaciones: **online siempre primero** («Online · Santa Cruz de Tenerife · El Médano», «online y en Tenerife»).
+- Método (no inventar otro): llamada gratuita de 15 minutos para ver si hay encaje → programa de 12 semanas que empieza con una primera consulta de 60 minutos → plan a medida introducido poco a poco, con revisión semanal.
 
 ## Artículos nuevos del blog
 
