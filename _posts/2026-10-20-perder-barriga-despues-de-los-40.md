@@ -4,21 +4,21 @@ title: "Perder barriga después de los 40: qué funciona"
 h1: "Perder barriga después de los 40: lo que de verdad funciona"
 description: "Más cintura, menos fuerza y recuperación lenta. Por qué el cuerpo deja de compensar a partir de los 40 y qué cambios funcionan con trabajo e hijos."
 cta_title: "¿Lo vemos con tu semana real?"
-cta_copy: "En la primera consulta (45–60 minutos, en Santa Cruz, El Médano u online) revisamos tus horarios, tu compra, tus cenas y tu actividad, y elegimos los dos o tres cambios que más te van a mover la aguja. Después, si quieres, seguimos 12 semanas con una revisión cada semana."
+cta_copy: "Empezamos con una llamada gratuita de 15 minutos para ver si encajamos. Si es así, en la primera consulta (60 minutos, online, en Santa Cruz o en El Médano) entramos a fondo en tu rutina y tus hábitos. Después te presento un plan hecho a tu medida y lo introducimos poco a poco durante 12 semanas, con una revisión semanal para ver qué funciona, qué no y ajustarlo."
 faq:
   - q: "¿Puedo perder barriga sin dejar la cerveza?"
-    a: "No hace falta empezar por quitarla. El alcohol aporta energía y suele venir acompañado de picoteo y de peor descanso, así que influye. Pero lo útil es mirar cuánto, cuándo y con qué, y decidir un cambio que puedas mantener, no prohibirlo todo el lunes."
+    a: "No hace falta empezar por quitarla. El alcohol aporta calorías y suele venir acompañado de picoteo y de peor descanso, así que influye. Pero lo útil es mirar cuánto, cuándo y con qué, y decidir un cambio que puedas mantener, no prohibirlo todo el lunes."
   - q: "¿Cuánto se tarda en notar la diferencia?"
     a: "Depende de cada persona y no tiene sentido prometer plazos. Lo que sí suele ocurrir antes que el cambio en la báscula es que la ropa queda distinta en la cintura, se gana fuerza en los ejercicios y se duerme y se rinde mejor. Por eso conviene medir esas cosas y no solo el peso."
   - q: "¿Necesito apuntarme a un gimnasio?"
-    a: "No necesariamente. Dos sesiones de fuerza a la semana se pueden hacer en casa con el peso del cuerpo, unas bandas elásticas o un par de mancuernas. El gimnasio ayuda si te resulta cómodo ir, pero no es un requisito."
+    a: "No necesariamente. Dos sesiones de fuerza a la semana se pueden hacer en casa con el peso del cuerpo, unas bandas elásticas o un par de mancuernas. El gimnasio ayuda si te resulta cómodo ir, pero no es un requisito. Dentro del plan, te ayudo a organizar los entrenamientos para que vayan de la mano de lo que comes."
   - q: "¿Tengo que contar calorías o macros?"
     a: "Para la mayoría, no. Puede ser útil durante un tiempo si te gustan los números, pero sostener el conteo con trabajo e hijos es difícil. Suele funcionar mejor una estructura sencilla: una ración de proteína y verdura en cada comida principal y menos picoteo improvisado."
   - q: "¿Me ayudaría la creatina?"
-    a: "La creatina tiene buena evidencia como apoyo al entrenamiento de fuerza, pero sin entrenamiento de fuerza hace muy poco. No es un atajo para perder barriga. Si entrenas y te interesa, consúltalo con un profesional antes de comprar."
+    a: "La creatina tiene buena evidencia como apoyo al entrenamiento de fuerza, pero sin entrenamiento de fuerza hace muy poco. No es un atajo para perder barriga. Si entrenas y te interesa, lo valoramos como parte del plan."
 ---
 
-Si has pasado de los 40 (o te acercas), notas que la barriga crece aunque no comas mucho más que antes. Perder barriga después de los 40 cuesta más que a los 25. Las hormonas influyen algo, pero casi siempre pesa más lo demás: menos músculo, menos movimiento y una semana que ya no es la de antes.
+Si has pasado de los 40 (o te acercas), notas que la barriga crece aunque no comas mucho más que antes. Perder barriga después de los 40 cuesta más que a los 25. Aunque escuchamos mucho eso de «me ha cambiado el metabolismo», lo que en realidad cambia es mucho más sencillo de entender: menos músculo, menos movimiento y una semana que ya no es la de antes.
 
 Hay una frase que oigo a menudo en consulta: «Sigo sintiéndome joven, pero mi cuerpo me está diciendo otra cosa».
 
@@ -53,7 +53,7 @@ Y puede que haya algo más. ¿Te pasa que antes eras una persona activa (fútbol
 - **Hacer abdominales para quitar la tripa.** En un ensayo controlado, seis semanas de abdominales cinco días a la semana no redujeron la grasa abdominal, aunque sí mejoró la resistencia de esos músculos ([Vispute y cols., 2011](https://pubmed.ncbi.nlm.nih.gov/21804427/)). No se puede elegir de dónde sale la grasa.
 - **Ser perfecto de lunes a viernes y compensar el fin de semana.** Restringir mucho entre semana suele acabar en un fin de semana sin estructura, y vuelta a empezar el lunes. Es agotador y rara vez se sostiene.
 - **Empezar con todo a la vez.** Dieta estricta, cinco días de gimnasio y cero alcohol el mismo lunes. Dura lo que dura una semana complicada en el trabajo.
-- **Fiarse solo de la báscula.** Si ganas músculo mientras pierdes grasa, el peso puede moverse poco aunque la cintura baje. Mídete la cintura y apunta tu fuerza.
+- **Fiarse solo de la báscula.** Si ganas músculo mientras pierdes grasa, el peso puede moverse poco aunque la cintura baje. Mídete la cintura y anota cuánto peso o cuántas repeticiones haces en dos o tres ejercicios: si suben mientras la cintura baja, estás ganando o conservando músculo.
 
 ## Cinco cambios que sí suelen funcionar
 
@@ -69,7 +69,7 @@ El ejercicio aeróbico reduce la grasa visceral incluso sin hacer dieta: un meta
 
 ### 3. Proteína en cada comida principal
 
-Si entrenas fuerza, la proteína ayuda a ganar músculo. En un metaanálisis de ensayos con personas que entrenaban fuerza, el beneficio aumentaba hasta un consumo total de unos 1,6 g de proteína por kilo de peso al día, y por encima de esa cifra el beneficio adicional fue pequeño o nulo ([Morton y cols., 2018](https://doi.org/10.1136/bjsports-2017-097608)). Sin hacer cálculos: incluye una ración de proteína en el desayuno, la comida y la cena (huevos, legumbres, pescado, carne, yogur natural o queso fresco). El desayuno suele ser el punto débil.
+Si entrenas fuerza, la proteína ayuda a ganar músculo. En un metaanálisis de ensayos con personas que entrenaban fuerza, el beneficio aumentaba hasta un consumo total de unos 1,6 g de proteína por kilo de peso al día, y por encima de esa cifra el beneficio adicional fue pequeño o nulo ([Morton y cols., 2018](https://doi.org/10.1136/bjsports-2017-097608)). Sin hacer cálculos: incluye una ración de proteína en el desayuno, la comida y la cena. El desayuno suele ser el punto débil.
 
 ### 4. Una estructura mínima para los días caóticos
 
@@ -77,7 +77,7 @@ En la mayoría de los hombres que veo, el picoteo de la tarde y las cenas improv
 
 ### 5. Dormir y beber con intención
 
-Dormir poco aumenta el hambre y el picoteo del día siguiente, y el alcohol añade energía y suele empeorar el descanso. Elige qué días bebes y cuánto, y protege una hora fija para acostarte la mayoría de las noches.
+Dormir poco aumenta el hambre y el picoteo del día siguiente, y el alcohol añade calorías y suele empeorar el descanso. Elige qué días bebes y cuánto, y protege una hora fija para acostarte la mayoría de las noches.
 
 ## Cuándo necesitas a otro profesional
 
@@ -88,4 +88,4 @@ Dormir poco aumenta el hambre y el picoteo del día siguiente, y el alcohol aña
 
 ## Cómo puedo ayudarte
 
-Mi trabajo es convertir lo anterior en un plan que encaje en tu semana real: tus horarios, tus comidas de trabajo, las cenas con tus hijos y tus fines de semana. Empezamos con una primera consulta y, si te encaja, seguimos 12 semanas con una revisión semanal. Puedes ver [cómo trabajo](/#asi-trabajo) o escribirme desde la sección de [contacto](/#contacto).
+Mi trabajo es convertir lo anterior en un plan que encaje en tu semana real: tus horarios, tus comidas de trabajo, las cenas con tus hijos y tus fines de semana. Empezamos con una llamada gratuita de 15 minutos para ver si encajan tu objetivo, tu situación y mi forma de trabajar. Si es así, arrancamos un programa de 12 semanas. La primera consulta dura 60 minutos y en ella entramos a fondo en tu rutina, tus hábitos y lo que te está frenando. A partir de ahí te presento un plan hecho a tu medida, lo vamos introduciendo poco a poco y lo revisamos cada semana para quedarnos con lo que funciona y corregir lo que no. Puedes ver [cómo trabajo](/#asi-trabajo) o escribirme desde la sección de [contacto](/#contacto).
