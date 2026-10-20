@@ -20,7 +20,7 @@ faq:
 
 Si has pasado de los 40 (o te acercas), notas que la barriga crece aunque no comas mucho más que antes. Perder barriga después de los 40 cuesta más que a los 25. Las hormonas influyen algo, pero casi siempre pesa más lo demás: menos músculo, menos movimiento y una semana que ya no es la de antes.
 
-¿Te sigues sintiendo joven, pero tu cuerpo te dice otra cosa?
+Hay una frase que oigo a menudo en consulta: «Sigo sintiéndome joven, pero mi cuerpo me está diciendo otra cosa».
 
 Este artículo es para hombres de 35 a 50 años con un trabajo exigente, hijos y poco tiempo. Si preparas una competición o buscas un plan exprés para el verano, este artículo no es para ti. Si quieres volver a estar en forma sin que tu vida gire alrededor de una dieta, sigue leyendo.
 
@@ -44,6 +44,8 @@ A los 25 podías cenar tarde, dormir poco y salir el fin de semana, y el cuerpo 
 - **La grasa se acumula más en la tripa.** En los hombres, la grasa tiende a ir al abdomen, y una parte se sitúa alrededor de los órganos (la llamada grasa visceral). Esa es la que más se relaciona con problemas de salud, y por eso la cintura importa más que el peso.
 - **Rutinas que no ayudan.** Saltarse comidas, picar por la tarde, cenar tarde y abundante, dormir menos de lo que necesitas y usar la cerveza o el vino para desconectar.
 
+En consulta, lo que más veo en hombres de esta edad no es que coman mal. Es que pican por la tarde o por la noche, no tienen una estructura de comidas y acaban comiendo lo primero que encuentran (casi siempre procesados o las sobras), o que empiezan a entrenar sin un plan y lo dejan a las pocas semanas.
+
 Y puede que haya algo más. ¿Te pasa que antes eras una persona activa (fútbol, gimnasio, bici) y no sabes muy bien cuándo dejaste de serlo? Muchos hombres de esta edad no han dejado el deporte por una decisión: simplemente, un día dejó de caber en la semana.
 
 ## Lo que no funciona (aunque lo parezca)
@@ -55,7 +57,7 @@ Y puede que haya algo más. ¿Te pasa que antes eras una persona activa (fútbol
 
 ## Cinco cambios que sí suelen funcionar
 
-No hace falta hacerlos todos a la vez. Elige uno o dos que encajen en tu semana y mantenlos antes de añadir más.
+No hace falta hacerlos todos a la vez. En consulta suelo empezar por los tres primeros: el ejercicio, para conservar el músculo y aumentar lo que gastas cada día, y la proteína, que sacia y también ayuda a mantener el músculo. Si vas por tu cuenta, empieza por uno o dos que encajen en tu semana y mantenlos antes de añadir más.
 
 ### 1. Fuerza dos días a la semana (también para ganar músculo después de los 40)
 
@@ -71,7 +73,7 @@ Si entrenas fuerza, la proteína ayuda a ganar músculo. En un metaanálisis de 
 
 ### 4. Una estructura mínima para los días caóticos
 
-En una semana caótica, el picoteo de la tarde y las cenas improvisadas son difíciles de controlar sobre la marcha. Ten resueltas dos o tres opciones de comida y de cena que puedas repetir sin pensar, y algo a mano para la tarde (fruta, yogur o un puñado de frutos secos) para no llegar a casa con hambre de todo. Si te cuesta cambiar aunque sepas qué hacer, te lo explico en [por qué cuesta tanto cambiar la forma de comer](/blog/por-que-cuesta-cambiar-forma-de-comer/).
+En la mayoría de los hombres que veo, el picoteo de la tarde y las cenas improvisadas suman más que cualquier comida concreta. Ten resueltas dos o tres opciones de comida y de cena que puedas repetir sin pensar, y algo a mano para la tarde (fruta, yogur o un puñado de frutos secos) para no llegar a casa con hambre de todo. Si te cuesta cambiar aunque sepas qué hacer, te lo explico en [por qué cuesta tanto cambiar la forma de comer](/blog/por-que-cuesta-cambiar-forma-de-comer/).
 
 ### 5. Dormir y beber con intención
 
