@@ -1,0 +1,11 @@
+{%- comment -%}
+  CTA único de cada artículo. El mensaje de WhatsApp lleva el título del artículo
+  ya escrito: así se sabe desde qué artículo llega cada contacto (los parámetros
+  UTM no se pueden medir en un enlace de wa.me).
+{%- endcomment -%}
+{%- capture mensaje -%}Hola, Pablo. He leído tu artículo «{{ page.title }}» y me gustaría pedir una primera consulta.{%- endcapture -%}
+<div class="cta-post">
+  <p class="cta-post-title">{{ page.cta_title | default: "¿Quieres que lo veamos con tu semana real?" }}</p>
+  <p class="cta-post-copy">{{ page.cta_copy | default: "En la primera consulta (45–60 minutos, en Santa Cruz, El Médano u online) revisamos tus horarios, tu compra y tus cenas, y salimos con un plan que encaje en tu vida. Después, si quieres, seguimos 12 semanas con una revisión cada semana." }}</p>
+  <a class="btn btn--primary" href="https://wa.me/34642104190?text={{ mensaje | url_encode | replace: '+', '%20' }}" target="_blank" rel="noopener">Escríbeme por WhatsApp</a>
+</div>

@@ -1,0 +1,10 @@
+{%- assign revisado = page.last_modified_at | default: page.date -%}
+<aside class="author-box" aria-label="Sobre el autor">
+  <img class="author-photo" src="{{ '/assets/pablo-hero.png' | relative_url }}" alt="Pablo Quintero, nutricionista" width="72" height="72" loading="lazy">
+  <div>
+    <p class="author-name">Pablo Quintero</p>
+    <p class="author-cred">Nutricionista · Doctor por la Universidad de Navarra, con una tesis en nutrición</p>
+    <p class="author-bio">Consulta en Santa Cruz de Tenerife, El Médano y online para hombres y mujeres con trabajo exigente, hijos y poco tiempo. <a href="{{ '/#sobre-mi' | relative_url }}">Más sobre mi formación y experiencia</a>.</p>
+    <p class="author-date">Última revisión: {% include fecha-es.html date=revisado %}</p>
+  </div>
+</aside>

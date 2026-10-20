@@ -3,12 +3,22 @@ layout: default
 ---
 <article class="section post">
   <p class="eyebrow-note"><a href="{{ '/blog/' | relative_url }}" style="color:inherit;">Blog</a></p>
-  <h1 style="font-size:clamp(1.9rem,3.8vw,2.8rem);max-width:760px;">{{ page.title }}</h1>
-  <p class="post-meta">{% include fecha-es.html date=page.date %}{% if page.author %} · {{ page.author }}{% endif %}</p>
+  <h1 style="font-size:clamp(1.9rem,3.8vw,2.8rem);max-width:760px;">{{ page.h1 | default: page.title }}</h1>
+  <p class="post-meta">Por <a href="{{ '/#sobre-mi' | relative_url }}">Pablo Quintero</a>, Doctor en Nutrición · {% include fecha-es.html date=page.date %}{% if page.last_modified_at %} · Revisado el {% include fecha-es.html date=page.last_modified_at %}{% endif %}</p>
 
   <div class="post-content">
     {{ content }}
+
+    {% if page.faq %}
+    <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+    {% for item in page.faq %}
+    <h3>{{ item.q }}</h3>
+    {{ item.a | markdownify }}
+    {% endfor %}
+    {% endif %}
   </div>
 
+  {% include cta-post.html %}
+  {% include autor.html %}
   {% include subscribe.html %}
 </article>

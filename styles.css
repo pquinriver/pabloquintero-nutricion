@@ -258,6 +258,19 @@
   .post-content blockquote{margin:1.6em 0;padding:2px 0 2px 20px;border-left:3px solid var(--peach);color:var(--ink);font-weight:600;font-size:1.08rem}
   .post-content blockquote p{margin:0}
 
+  .post-meta a{color:inherit;text-decoration:underline}
+  .post-content h3{font-size:1.08rem;margin-top:1.3em;margin-bottom:.4em;color:var(--ink)}
+  .cta-post{background:var(--paper-alt);border-radius:24px;padding:32px 34px;margin-top:48px}
+  .cta-post-title{font-weight:800;font-size:1.2rem;color:var(--forest);margin:0 0 8px}
+  .cta-post-copy{color:var(--ink-soft);font-size:.98rem;margin:0 0 20px}
+  .author-box{display:flex;gap:18px;align-items:flex-start;margin-top:32px;padding:24px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .author-photo{width:72px;height:72px;border-radius:50%;object-fit:cover;object-position:top;flex-shrink:0;background:var(--paper-alt)}
+  .author-name{font-weight:800;color:var(--forest);margin:0 0 2px}
+  .author-cred{font-size:.9rem;font-weight:600;color:var(--ink);margin:0 0 8px}
+  .author-bio{font-size:.92rem;color:var(--ink-soft);margin:0 0 6px}
+  .author-bio a{color:var(--terracotta);text-decoration:underline}
+  .author-date{font-size:.82rem;color:var(--muted);margin:0}
+  @media (max-width:560px){.cta-post{padding:26px 22px}.cta-post .btn{white-space:normal;justify-content:center;width:100%}.author-box{flex-direction:column}}
   .subscribe-box{background:var(--forest);border-radius:24px;padding:32px 34px;margin-top:40px;color:var(--cream)}
   .subscribe-title{font-weight:800;font-size:1.1rem;color:var(--cream);margin:0 0 6px}
   .subscribe-copy{color:rgba(249,241,232,.72);font-size:.92rem;margin:0 0 18px}
