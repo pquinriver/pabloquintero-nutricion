@@ -4,8 +4,8 @@ Todo lo marcado abajo sigue con datos de ejemplo en `index.html`. Sustitúyelo a
 de anunciar el sitio públicamente.
 
 ## Contacto
-- [x] Teléfono real → +34642104190
-- [x] Número de WhatsApp real → wa.me/34642104190
+- [x] Teléfono real → +34623823083
+- [x] Número de WhatsApp real → wa.me/34623823083
 - [x] Email real → hola@pabloquinteronutricion.com
 - [x] Dirección completa de la consulta → Rambla de Santa Cruz, 131 - 38001 –
       Santa Cruz de Tenerife
