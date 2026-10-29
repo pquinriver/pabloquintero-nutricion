@@ -3,6 +3,7 @@ layout: post
 title: "Perder barriga después de los 40: qué funciona"
 h1: "Perder barriga después de los 40: lo que de verdad funciona"
 description: "Más cintura, menos fuerza y recuperación lenta. Por qué el cuerpo deja de compensar a partir de los 40 y qué cambios funcionan con trabajo e hijos."
+last_modified_at: 2026-10-27
 cta_title: "¿Lo vemos con tu semana real?"
 cta_copy: "Empezamos con una llamada gratuita de 15 minutos para ver si encajamos. Si es así, en la primera consulta (60 minutos, online, en Santa Cruz o en El Médano) entramos a fondo en tu rutina y tus hábitos. Después te presento un plan hecho a tu medida y lo introducimos poco a poco durante 12 semanas, con una revisión semanal para ver qué funciona, qué no y ajustarlo."
 faq:
@@ -81,7 +82,7 @@ Dormir poco aumenta el hambre y el picoteo del día siguiente, y el alcohol aña
 
 ## Cuándo necesitas a otro profesional
 
-- Si tu índice cintura-altura está en 0,6 o más, si hace tiempo que no te haces una analítica o si te han dicho que tienes la tensión, el colesterol o la glucosa altos, habla con tu médico de cabecera. La nutrición ayuda, pero la valoración médica va primero.
+- Si tu índice cintura-altura está en 0,6 o más, si hace tiempo que no te haces una analítica o si te han dicho que tienes la tensión, el colesterol o la glucosa altos, habla con tu médico de cabecera. La nutrición ayuda, pero la valoración médica va primero. Si ya tienes la analítica en la mano, te cuento [qué comer con el colesterol o la glucosa altos](/blog/analitica-alterada-que-comer/).
 - Si roncas fuerte, alguien te ha visto hacer pausas al respirar mientras duermes o te despiertas sin descansar, coméntalo con tu médico: puede ser apnea del sueño.
 - Si tomas medicación, no la cambies ni la dejes por tu cuenta, aunque mejoren tus hábitos. Cualquier ajuste lo decide tu médico.
 - Si tienes una lesión o dolor al entrenar, un fisioterapeuta o un entrenador cualificado te ayudará a adaptar los ejercicios.
