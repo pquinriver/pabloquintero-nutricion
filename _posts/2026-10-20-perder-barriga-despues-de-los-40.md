@@ -3,7 +3,7 @@ layout: post
 title: "Perder barriga después de los 40: qué funciona"
 h1: "Perder barriga después de los 40: lo que de verdad funciona"
 description: "Más cintura, menos fuerza y recuperación lenta. Por qué el cuerpo deja de compensar a partir de los 40 y qué cambios funcionan con trabajo e hijos."
-last_modified_at: 2026-10-27
+last_modified_at: 2026-11-03
 cta_title: "¿Lo vemos con tu semana real?"
 cta_copy: "Empezamos con una llamada gratuita de 15 minutos para ver si encajamos. Si es así, en la primera consulta (60 minutos, online, en Santa Cruz o en El Médano) entramos a fondo en tu rutina y tus hábitos. Después te presento un plan hecho a tu medida y lo introducimos poco a poco durante 12 semanas, con una revisión semanal para ver qué funciona, qué no y ajustarlo."
 faq:
@@ -78,7 +78,7 @@ En la mayoría de los hombres que veo, el picoteo de la tarde y las cenas improv
 
 ### 5. Dormir y beber con intención
 
-Dormir poco aumenta el hambre y el picoteo del día siguiente, y el alcohol añade calorías y suele empeorar el descanso. Elige qué días bebes y cuánto, y protege una hora fija para acostarte la mayoría de las noches.
+Dormir poco aumenta el hambre y el picoteo del día siguiente, y el alcohol añade calorías y suele empeorar el descanso. Elige qué días bebes y cuánto, y protege una hora fija para acostarte la mayoría de las noches. Si además llegas sin energía a media tarde, te explico [por qué estás cansado por la tarde y qué puedes cambiar](/blog/cansado-por-la-tarde/).
 
 ## Cuándo necesitas a otro profesional
 
