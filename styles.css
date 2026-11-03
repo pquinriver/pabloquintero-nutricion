@@ -292,3 +292,27 @@
   .cookie-banner a{color:var(--forest);font-weight:600}
   .cookie-actions{display:flex;gap:10px;justify-content:flex-end}
   @media (max-width:480px){.cookie-actions .btn{flex:1;justify-content:center}}
+
+  /* ---------- landing de anuncios (/consulta/) ---------- */
+  .lp-hero{display:grid;grid-template-columns:1.1fr .9fr;gap:36px;align-items:center;padding:44px 0 12px}
+  .lp-hero h1{font-size:clamp(2.2rem,4.6vw,3.5rem);line-height:1.05}
+  .lp-hero .lede{font-size:1.08rem;color:var(--ink-soft);max-width:52ch}
+  .lp-hero-photo img{width:100%;max-width:420px;height:auto;display:block;margin-left:auto;border-radius:28px}
+  .lp-cta{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
+  .lp-cta-note{color:var(--muted);font-size:.88rem;margin:12px 0 0}
+  .lp-steps{padding:40px 0}
+  .lp-step-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .lp-step-list li{display:flex;gap:14px;background:var(--paper-alt);border:1px solid rgba(232,180,140,.45);border-radius:24px;padding:26px 24px}
+  .lp-step-list h3{font-size:1.05rem;margin-bottom:6px}
+  .lp-step-list p{color:var(--ink-soft);font-size:.95rem;margin:0}
+  .lp-step-num{flex-shrink:0;width:34px;height:34px;border-radius:50%;background:var(--forest);color:var(--cream);font-weight:800;display:flex;align-items:center;justify-content:center}
+  .lp-about{display:flex;gap:24px;align-items:flex-start;max-width:760px;padding:8px 0 40px}
+  .lp-about p{color:var(--ink-soft)}
+  .lp-avatar{width:88px;height:88px;border-radius:50%;object-fit:cover;flex-shrink:0}
+  @media (max-width:860px){
+    .lp-hero{grid-template-columns:1fr;gap:24px;padding-top:28px}
+    .lp-hero-photo img{max-width:240px;margin:0 auto}
+    .lp-cta .btn{flex:1;justify-content:center}
+    .lp-step-list{grid-template-columns:1fr}
+    .lp-about{flex-direction:column;gap:14px}
+  }
