@@ -310,10 +310,10 @@
   .lp-about-title{font-size:1.3rem;margin:0 0 10px}
   .lp-steps{padding:40px 0}
   .lp-step-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
-  .lp-step-list li{display:flex;gap:14px;background:var(--paper-alt);border:1px solid rgba(232,180,140,.45);border-radius:24px;padding:26px 24px}
-  .lp-step-list h3{font-size:1.05rem;margin-bottom:6px}
-  .lp-step-list p{color:var(--ink-soft);font-size:.95rem;margin:0}
-  .lp-step-num{flex-shrink:0;width:34px;height:34px;border-radius:50%;background:var(--forest);color:var(--cream);font-weight:800;display:flex;align-items:center;justify-content:center}
+  .lp-step-list li{display:flex;gap:14px;background:var(--forest);border-radius:24px;padding:26px 24px;color:var(--cream)}
+  .lp-step-list h3{font-size:1.05rem;margin-bottom:6px;color:var(--cream)}
+  .lp-step-list p{color:rgba(249,241,232,.78);font-size:.95rem;margin:0}
+  .lp-step-num{flex-shrink:0;width:34px;height:34px;border-radius:50%;background:var(--cream);color:var(--forest);font-weight:800;display:flex;align-items:center;justify-content:center}
   .lp-about{display:flex;gap:24px;align-items:flex-start;max-width:760px;padding:8px 0 40px}
   .lp-about p{color:var(--ink-soft)}
   .lp-avatar{width:88px;height:88px;border-radius:50%;object-fit:cover;flex-shrink:0}
