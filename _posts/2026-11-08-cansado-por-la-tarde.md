@@ -13,16 +13,10 @@ faq:
   - q: "¿Me vendría bien una siesta?"
     a: "Una siesta corta puede ayudar a algunas personas, pero no compensa noches cortas de forma habitual. Si necesitas dormir todos los días por la tarde para funcionar, o te despiertas cansado aunque duermas suficientes horas, vale la pena revisar tu descanso con el médico."
   - q: "¿Qué puedo merendar para no llegar a casa sin fuerzas?"
-    a: "Algo sencillo que tengas a mano y combine fibra con algo de proteína: una pieza de fruta con un puñado de frutos secos, un yogur natural o de soja con avena, o pan integral con hummus. La idea es no llegar a la cena con hambre de todo, no añadir una comida más."
+    a: "Algo sencillo que tengas a mano y combine fibra con algo de proteína: una pieza de fruta fácil de llevar (uvas, una manzana, un plátano) con un puñado de frutos secos como máximo, un yogur natural o de soja con avena, o pan integral con hummus. La idea es no llegar a la cena con hambre de todo, no añadir una comida más."
   - q: "¿Necesito tomar algún suplemento para la energía?"
     a: "No como punto de partida. Si hay un déficit (por ejemplo, de hierro o de vitamina B12), lo tiene que confirmar una analítica y lo trata tu médico. Tomar suplementos a ciegas puede tapar un problema que conviene estudiar."
 ---
-
-«No doy la talla ni en el trabajo ni en casa». Si llegas cansado por la tarde, con un bajón a media tarde que resuelves con otro café y llegas a casa sin fuerzas para nada, este artículo es para ti. El cansancio de la tarde rara vez tiene una sola causa: suele ser la suma de cómo duermes, cómo comes y cómo está organizado tu día.
-
-Está pensado para hombres de 35 a 50 años con un trabajo exigente, hijos y poco tiempo. Si el cansancio es nuevo, muy intenso o viene con otros síntomas, empieza por el médico (al final te cuento cuándo). Si te reconoces en el bajón de todos los días, aquí tienes lo que sí está en tu mano.
-
-## Lo que notas
 
 ¿Te suena alguna de estas situaciones?
 
@@ -30,9 +24,11 @@ Está pensado para hombres de 35 a 50 años con un trabajo exigente, hijos y poc
 - Tiras de café (o de algo dulce) para aguantar hasta el final de la jornada.
 - Llegas a casa justo cuando tus hijos tienen más energía, y tú tienes la menor del día.
 - Por la noche, cuando por fin están dormidos, se te pasa el sueño y te quedas despierto con el móvil o la tele.
-- ¿Te pasa que la noche es el único rato que sientes tuyo, aunque lo pagues al día siguiente?
+- La noche es el único rato que sientes tuyo, aunque lo pagues al día siguiente.
 
-Si respondes que sí a varias, no es falta de carácter. Es un círculo bastante habitual, y se puede romper por varios puntos.
+Si llegas cansado por la tarde, con un bajón a media tarde que resuelves con otro café y llegas a casa sin fuerzas para nada, este artículo es para ti. El cansancio de la tarde rara vez tiene una sola causa: suele ser la suma de cómo duermes, cómo comes y cómo está organizado tu día. No es falta de carácter: es un círculo bastante habitual, y se puede romper por varios puntos.
+
+Está pensado para hombres de 35 a 50 años con un trabajo exigente, hijos y poco tiempo. Si el cansancio es nuevo, muy intenso o viene con otros síntomas, empieza por el médico (al final te cuento cuándo). Si te reconoces en el bajón de todos los días, aquí tienes lo que sí está en tu mano.
 
 ## Por qué estás cansado por la tarde
 
@@ -77,11 +73,11 @@ Una regla sencilla: el último café, como muy tarde, seis horas antes de acosta
 
 ### 2. Una comida que sostenga la tarde
 
-Que la base sea vegetal y con fibra: un plato de legumbres (lentejas, garbanzos o alubias de bote, bien enjuagados), arroz o pasta integral con verdura, y tofu, pescado o huevo como alternativa para completar. Una ración razonable, no la más grande del día. Si comes fuera, busca el plato con legumbre o verdura y una ración de proteína, y deja el pan y el postre dulce como algo ocasional, no como norma.
+Que la base sea vegetal y con fibra: un plato de legumbres (lentejas, garbanzos o alubias de bote, bien enjuagados), patata o boniato, arroz o pasta integral con verdura, y tofu, pescado o huevo como alternativa para completar. Una ración razonable, no la más grande del día. Si comes fuera, busca el plato con legumbre o verdura y una ración de proteína, y deja el pan y el postre dulce como algo ocasional, no como norma.
 
 ### 3. Una merienda planificada
 
-El bajón de las cinco se lleva peor con hambre. Ten algo a mano antes de que llegue: fruta con un puñado de frutos secos, un yogur natural o de soja con avena, o pan integral con hummus. Así no llegas a casa con hambre de todo ni tiras de lo primero que encuentras.
+El bajón de las cinco se lleva peor con hambre. Ten algo a mano antes de que llegue: una pieza de fruta fácil de llevar en un táper o directamente en la mochila (uvas, una manzana, un plátano) con un puñado de frutos secos como máximo, un yogur natural o de soja con avena, o pan integral con hummus. Así no llegas a casa con hambre de todo ni tiras de lo primero que encuentras.
 
 ### 4. Protege una hora de acostarte
 
@@ -95,7 +91,7 @@ Y si sabes todo esto pero no consigues aplicarlo, no es falta de voluntad. Te lo
 
 ## Pensar en los próximos 25 años
 
-Dormir bien y tener energía por la tarde no es solo rendir mejor esta semana. Es llegar a los 60 con energía para seguir el ritmo de tus hijos cuando sean adolescentes. El sueño corto de forma habitual se asocia con más riesgo de hipertensión, diabetes y enfermedad cardiovascular, así que cuidarlo hoy es una forma de cuidar tu salud dentro de 20 años. Si ya te ha salido algo alterado en una analítica, te cuento [qué comer con el colesterol o la glucosa altos](/blog/analitica-alterada-que-comer/).
+Dormir bien y tener energía por la tarde no es solo rendir mejor esta semana. Es llegar a los 50 con energía para seguir el ritmo de tus hijos cuando sean adolescentes. El sueño corto de forma habitual se asocia con más riesgo de hipertensión, diabetes y enfermedad cardiovascular, así que cuidarlo hoy es una forma de cuidar tu salud dentro de 20 años. Si ya te ha salido algo alterado en una analítica, te cuento [qué comer con el colesterol o la glucosa altos](/blog/analitica-alterada-que-comer/).
 
 ## Cuándo necesitas a otro profesional
 
