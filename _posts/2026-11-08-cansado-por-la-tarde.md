@@ -2,6 +2,7 @@
 layout: post
 title: "Cansado por la tarde: qué comer y cómo dormir mejor"
 h1: "Cansado por la tarde: por qué te pasa y qué puedes cambiar"
+last_modified_at: 2026-11-10
 description: "Bajón a media tarde, café tras café y llegas a casa sin fuerzas. Qué papel tienen la comida, el sueño y la cafeína, y qué cambiar en una semana real."
 cta_title: "¿Vemos qué te está quitando la energía?"
 cta_copy: "Empezamos con una llamada gratuita de 15 minutos para ver si encajamos. Si es así, en la primera consulta (60 minutos, online, en Santa Cruz o en El Médano) repasamos tu rutina, tus comidas y tu descanso. Después te presento un plan a tu medida y lo introducimos poco a poco durante 12 semanas, con una revisión semanal."
@@ -54,7 +55,7 @@ El alcohol ayuda a quedarse dormido antes, pero altera la segunda mitad de la no
 
 ### Comer deprisa o saltarte comidas
 
-¿Te pasa que no desayunas, comes cualquier cosa delante del ordenador y llegas a la tarde con hambre de todo? Una comida improvisada, muy abundante o muy pobre en fibra y proteína suele terminar en picoteo a media tarde y en una cena grande y tardía, que tampoco ayuda a dormir.
+¿Te pasa que no desayunas, comes cualquier cosa delante del ordenador y llegas a la tarde con hambre de todo? Una comida improvisada, muy abundante o muy pobre en fibra y proteína suele terminar en picoteo a media tarde y en una cena grande y tardía, que tampoco ayuda a dormir. Si te reconoces aquí, te cuento cómo [comer sano sin tiempo, con hijos y sin cocinar aparte](/blog/comer-sano-sin-tiempo-trabajo-hijos/).
 
 ## Lo que no funciona
 
