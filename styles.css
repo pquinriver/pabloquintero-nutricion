@@ -338,12 +338,15 @@
   .club-empty{background:var(--paper-alt);border:1px dashed var(--peach);border-radius:20px;padding:18px 22px;color:var(--ink-soft);max-width:760px;margin:0}
   .club-sport{padding:24px 0 40px;max-width:760px}
   .club-lede{font-size:1.08rem;color:var(--ink)}
-  .club-sport p{color:var(--ink-soft)}
+  .club-sport p:not(.eyebrow-note){color:var(--ink-soft)}
   .club-checks{margin:0 0 22px;padding-left:20px;color:var(--ink-soft)}
   .club-checks li{margin-bottom:6px}
   .club-small{font-size:.88rem;margin:16px 0 0 !important}
   .club-discount{margin-top:24px;background:rgba(249,241,232,.10);border:1px solid rgba(249,241,232,.22);border-radius:18px;padding:16px 20px;color:var(--cream);font-size:.95rem;line-height:1.5}
   .club-faq{padding:48px 0 24px}
+  .club .club-stack{grid-template-columns:1fr;max-width:760px}
+  .club-sub{color:var(--ink-soft);max-width:760px;margin:0 0 16px}
+  .club-senior{margin:14px 0 0}
   @media (max-width:860px){
     .club-grid-4{grid-template-columns:1fr}
   }
